@@ -10,10 +10,12 @@ There are two ways:
 ```
 ### [Put title here](put link here) by [Name]
 - Description: (Put Description here)<br>
-Image: ![Example](https://images.unsplash.com/photo-1545906785-193d7758ba91?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "Some Bear I found")
+Image: 
+![Example](https://images.unsplash.com/photo-1545906785-193d7758ba91?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "Some Bear I found")
 ```
 Here is what it should look like after you change it:
 
 ### [Example Bear](https://example.com) by [aboutDavid](https://aboutdavid.me)
 - Description: The Bear blah blah blah...<br>
-Image: ![Bear Image](https://images.unsplash.com/photo-1545906785-193d7758ba91?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "Some Bear I found")
+Image: 
+![Bear Image](https://images.unsplash.com/photo-1545906785-193d7758ba91?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60 "Some Bear I found")
