@@ -3,3 +3,5 @@
 
 Learn more [here](https://support.glitch.com/t/code4covid-a-community-effort-to-help-end-covid-19/30979)!
 
+
+Ways to help:
