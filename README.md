@@ -10,4 +10,4 @@ Ways to help:
 - [Help Us Code](/helpcode.html)
 
 
-<script async src="https://arc.io/widget.js#ed4gCVDV"></script>
+<p><script async src="https://arc.io/widget.js#ed4gCVDV"></script></p>
