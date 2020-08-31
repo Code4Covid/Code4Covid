@@ -5,6 +5,9 @@ Learn more [here](https://support.glitch.com/t/code4covid-a-community-effort-to-
 
 
 Ways to help:
-[Fold At Home](http://foldingathome.org)
-[Donate Money]()
-[Help Us Code](/helpcode.html)
+- [Fold At Home](http://foldingathome.org) allows you to use CPU power to make a cure for COVID-19
+- [Donate Money](#) 
+- [Help Us Code](/helpcode.html)
+
+
+<script async src="https://arc.io/widget.js#ed4gCVDV"></script>
