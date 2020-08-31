@@ -7,4 +7,4 @@ Learn more [here](https://support.glitch.com/t/code4covid-a-community-effort-to-
 Ways to help:
 [Fold At Home](http://foldingathome.org)
 [Donate Money]()
-[Help Us Code](/test.md)
+[Help Us Code](/helpcode.html)
